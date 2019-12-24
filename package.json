@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-plugin-visit",
+  "version": "0.1.0",
+  "description": "vuepress plugin for visit count api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llqgit/vuepress-plugin-visit.git"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin"
+  ],
+  "author": "llqgit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llqgit/vuepress-plugin-visit/issues"
+  },
+  "homepage": "https://github.com/llqgit/vuepress-plugin-visit#readme"
+}
